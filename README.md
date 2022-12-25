@@ -1,16 +1,3 @@
-# quizzler
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1671995723](https://user-images.githubusercontent.com/102830723/209479679-69dba6e5-1266-489e-8993-6b6bc8387b88.png)
+![Screenshot_1671995737](https://user-images.githubusercontent.com/102830723/209479689-32fa11c4-fc73-410d-aaaa-e53c21ecc9ce.png)
+ TRUE/FALSE QUIZ APP 
